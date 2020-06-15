@@ -1,2 +1,0 @@
-# ColorFlipper
-Created with CodeSandbox
